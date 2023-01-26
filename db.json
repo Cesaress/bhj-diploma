@@ -1,0 +1,300 @@
+{
+  "users": [
+    {
+      "name": "demo",
+      "email": "demo@demo",
+      "password": "demo",
+      "id": "1"
+    },
+    {
+      "id": "387zy6m0l7ui8byx"
+    },
+    {
+      "id": "387zybkkl7uibtpw"
+    },
+    {
+      "id": "387zyddol7uiimmn"
+    },
+    {
+      "id": "387zyiisl7uitr4z"
+    },
+    {
+      "id": "387zybasl7uj1eiu"
+    },
+    {
+      "id": "387zy614l7uj6p5f"
+    },
+    {
+      "id": "387zyb9ol7ujuhdz"
+    },
+    {
+      "id": "387zyhs0l7uk8j11"
+    },
+    {
+      "id": "387zyg84l7ukd9l7"
+    },
+    {
+      "id": "387zye6ol7uku87r"
+    },
+    {
+      "id": "387zy7lsl7ul1ka2"
+    },
+    {
+      "id": "387zy93kl7ul4dpo"
+    },
+    {
+      "id": "387zydzol7ul7lcf"
+    },
+    {
+      "id": "387zyg4wl7ulf808"
+    },
+    {
+      "id": "387zy8p0l7ulhwh0"
+    },
+    {
+      "id": "387zy78ol7uln28x"
+    },
+    {
+      "id": "387zy9z4l7uly4p9"
+    },
+    {
+      "id": "387zybyol7um0or3"
+    },
+    {
+      "id": "387zy6wcl7um0xkb"
+    },
+    {
+      "id": "387zyexsl7um84j2"
+    },
+    {
+      "id": "387zy5rsl7uma1y2"
+    },
+    {
+      "id": "387zyfe0l7uml9j2"
+    },
+    {
+      "id": "387zy1gcl7un2ci3"
+    },
+    {
+      "id": "387zyiy4l7un5mmu"
+    },
+    {
+      "name": "Tanya",
+      "email": "voznyuk1998@mail.ru",
+      "password": "123456",
+      "id": "387zyh8ol7unk96e"
+    },
+    {
+      "name": "Вознюк Татьяна Игоревна",
+      "email": "1998gsvchb@adkl",
+      "password": "123456",
+      "id": "387zy2ikl7uno0cy"
+    },
+    {
+      "name": "vfvfv",
+      "email": "demo@demd",
+      "password": "1234",
+      "id": "387zyex0l7ususu5"
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Банк",
+      "user_id": "1",
+      "id": "1"
+    },
+    {
+      "name": "Магазин",
+      "user_id": "1",
+      "id": "2"
+    },
+    {
+      "name": "Бизнес",
+      "user_id": "1",
+      "id": "3"
+    },
+    {
+      "name": "Сбербанк",
+      "user_id": "387zyh8ol7unk96e",
+      "id": "1ae2t7idgl8a9o8tg"
+    },
+    {
+      "name": "ОТП банк",
+      "user_id": "387zyh8ol7unk96e",
+      "id": "1ae2t77wol8a9ond4"
+    }
+  ],
+  "transactions": [
+    {
+      "account_id": "1",
+      "created_at": "2019-09-15 10:24:02",
+      "id": "1",
+      "name": "Кредит",
+      "sum": 5000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "1",
+      "created_at": "2019-09-17 15:53:02",
+      "id": "2",
+      "name": "Баланс на дебетовке",
+      "sum": 3200,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "1",
+      "created_at": "2019-09-19 20:12:02",
+      "id": "3",
+      "name": "Копилка",
+      "sum": 1500,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-26 16:23:02",
+      "id": "4",
+      "name": "Молочные продукты",
+      "sum": 100,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-25 15:03:02",
+      "id": "5",
+      "name": "Фрукты",
+      "sum": 250,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-25 15:03:02",
+      "id": "17",
+      "name": "Овощи",
+      "sum": 300,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-26 14:47:02",
+      "id": "6",
+      "name": "Мясо",
+      "sum": 600,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-27 13:27:02",
+      "id": "7",
+      "name": "Долг в банк",
+      "sum": 5000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "9",
+      "name": "На банду",
+      "sum": 15000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-17 13:27:02",
+      "id": "10",
+      "name": "На стволы",
+      "sum": 6000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-12-27 13:27:02",
+      "id": "11",
+      "name": "Прибыль с банка",
+      "sum": 1500000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "12",
+      "name": "Прибыль с магазина",
+      "sum": 300000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "13",
+      "name": "Подарок сизого",
+      "sum": 20000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-15 13:27:02",
+      "id": "14",
+      "name": "На охрану",
+      "sum": 60000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "15",
+      "name": "На бумер",
+      "sum": 300000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "id": "1ae2t7hi8l8a9z694",
+      "type": "expense",
+      "name": "счет",
+      "sum": 100,
+      "account_id": "1ae2t7idgl8a9o8tg",
+      "user_id": "387zyh8ol7unk96e",
+      "created_at": "2022-09-20T14:12:04.071Z"
+    },
+    {
+      "id": "1ae2t79dwl8aakz33",
+      "type": "income",
+      "name": "Цветы",
+      "sum": 1500,
+      "account_id": "1ae2t7idgl8a9o8tg",
+      "user_id": "387zyh8ol7unk96e",
+      "created_at": "2022-09-20T14:29:01.214Z"
+    },
+    {
+      "id": "1ae2t7hdcl8aamco6",
+      "type": "income",
+      "name": "Продажа Авто",
+      "sum": 600000,
+      "account_id": "1ae2t77wol8a9ond4",
+      "user_id": "387zyh8ol7unk96e",
+      "created_at": "2022-09-20T14:30:05.478Z"
+    },
+    {
+      "id": "1ae2t797wl8aamxmp",
+      "type": "expense",
+      "name": "Налог",
+      "sum": 150000,
+      "account_id": "1ae2t77wol8a9ond4",
+      "user_id": "387zyh8ol7unk96e",
+      "created_at": "2022-09-20T14:30:32.640Z"
+    }
+  ]
+}
